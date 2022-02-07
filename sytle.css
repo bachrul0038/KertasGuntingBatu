@@ -1,0 +1,22 @@
+.body {
+  background-color: blanchedalmond;
+}
+.tengah {
+  margin-top: 100px;
+}
+#huruf {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 14px;
+}
+button {
+  background-color: black;
+  color: white;
+  border: none;
+  box-shadow: none;
+  font-size: 17px;
+  font-weight: 500;
+  border-radius: 12px;
+  padding: 15px 35px;
+  margin: 26px 5px 0 5px;
+  cursor: pointer;
+}
